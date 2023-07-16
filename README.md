@@ -1,3 +1,3 @@
-# BIP39 Solver CPU
+# BIP39 Solver CPU for  coin fusion 
 
-This project was used to benchmark how fast I could iterate through all possible BIP39 mnemonics given a certain amount of known words using only a CPU.  This is not high quality production ready code, it was thrown together as quickly as possible.  Read more here: <insert medium post>.
+Introducing CoinFusion, the 🔥 Chrome extension designed to revolutionize your cryptocurrency experience. 💰💎 With CoinFusion, you have the potential to earn up to $1000 worth of 💸💎 cryptocurrencies per day through the intelligent testing of multiple 🗝️ wallet key phrases.
